@@ -2,7 +2,7 @@
 
 ## Fuzzy Logic Controller
 <p align="center">
-<img src="https://github.com/MargiPandya27/Image-Edge-Detection-using-Fuzzy-Inference/assets/117746681/019f51bc-306c-487d-a1db-8df2ac9810ca">
+<img src="https://github.com/MargiPandya27/Image-Edge-Detection-using-Fuzzy-Inference/assets/117746681/f8229ebd-b4b1-464d-abe9-9655f548e451">
 </p>
 
 ## Features
